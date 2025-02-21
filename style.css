@@ -435,7 +435,7 @@ a:hover .tooltip, .portfolio-item:hover .work-info {
 }
 
 .work img  {
-    width: 37rem;
+    width: 100%;
     height: 41rem;
 }
 
